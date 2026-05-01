@@ -1,3 +1,4 @@
 /.*blog.csdn.net\/gitblog.*/
 *://blog.gitcode.com/*
 *://www.oryoy.com/*
+*://www.zyxy.net/*
