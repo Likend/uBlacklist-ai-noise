@@ -2,7 +2,6 @@
 *://blog.gitcode.com/*
 
 *://www.zyxy.net/*
-*://www.siudz.com/*
 
 # 云原生实践 matrix. Reference: *://www.zhuqiy.com/posts/content-farm-exposed/
 *://www.oryoy.com/*
@@ -24,6 +23,7 @@
 *://www.rjut.cn/*
 *://www.seridoat.com/*
 *://www.sinotao.com/*
+*://www.siudz.com/*
 *://www.skdv.cn/*
 *://www.sthtlaw.com/*
 *://www.vdtb.cn/*
