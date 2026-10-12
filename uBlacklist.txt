@@ -7,7 +7,6 @@
 # 云原生实践 matrix. Reference: *://www.zhuqiy.com/posts/content-farm-exposed/
 *://www.oryoy.com/*
 *://www.bkwk.cn/*
-*://www.seridoat.com/*
 
 # Friend links from 云原生实践
 ## Class 1
