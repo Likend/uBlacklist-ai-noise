@@ -3,7 +3,7 @@
 
 *://www.zyxy.net/*
 
-# 云原生实践 matrix. Reference: *://www.zhuqiy.com/posts/content-farm-exposed/
+# 云原生实践 matrix. Reference: https://www.zhuqiy.com/posts/content-farm-exposed/
 *://www.oryoy.com/*
 *://www.bkwk.cn/*
 
